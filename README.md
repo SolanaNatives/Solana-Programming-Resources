@@ -70,13 +70,44 @@ A complete collection of all the Solana programming resources available for deve
 | Program derived addresses and cross program invocation | Video | [Click here](https://youtu.be/iMWaQRyjpl4)  |Youtube - Solana|01/20/22 |
 | How to Use Program Derived Addresses in Your Solana Anchor Program | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-program-derived-addresses-in-your-solana-anchor-program)|Quicknode.com|01/09/23 |
 
+## Transactions
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Transactions | Article | [Click here](https://docs.solana.com/developing/programming-model/transactions) |Solana Docs| |
+| Versioned Transactions | Artile |  [Click here](https://docs.solana.com/developing/versioned-transactions) |Solana Docs|  |
+| Address Lookup Tables | Article |  [Click here](https://docs.solana.com/developing/lookup-tables) |Solana Docs|  |
+| Transactions | Article | [Click here](https://solanacookbook.com/core-concepts/transactions.html#facts) |Solanacookbook.com| 12/30/21 |
+| Solana Transaction Structure   | Article | [Click here](https://solana.wiki/docs/solidity-guide/transactions/#solana-transaction-structure)|Solana.wiki| 05/08/21 |
+| Solana Validator 101: Transaction Processing | Article | [Click here](https://jito-labs.medium.com/solana-validator-101-transaction-processing-90bcdc271143)|Medium.com|11/23/21|
+| Transaction Fees | Article | [Click here](https://jstarry.notion.site/Transaction-Fees-f09387e6a8d84287aa16a34ecb58e239) |Jstarry.notion.site| 11/15/21 |
+| Solana Transactions in Depth | Article | [Click here](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2) |Medium.com| 09/11/21 |
+| How to Get Transaction Logs on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-get-transaction-logs-on-solana)|Quicknode.com|10/27/22 |
+| Transaction confirmation | Article | [Click here](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce)|Jstarry.notion.site|05/26/22|
+| Structure of Solana's blockspace | Twitter Thread | [Click here](https://twitter.com/7LayerMagik/status/1615569374647287808) |Twitter - @7LayerMagik| 01/18/23 |
+| Solana transaction- Lumina Labs | Twitter Thread | [Click here](https://twitter.com/wireless_anon/status/1612930129180647424) |Twitter - @wireless_anon| 01/11/23 |
+| How to Use Versioned Transactions on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-versioned-transactions-on-solana)|Quicknode.com| 10/18/22 |
 
-
-
-
-
-
-
-
+## Accounts
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Accounts | Article | [Click here](https://docs.solana.com/developing/programming-model/accounts) |Solana Docs|  |
+| An Introduction to the Solana Account Model | Article | [Click here](https://www.quicknode.com/guides/solana-development/an-introduction-to-the-solana-account-model)|Quicknode.com| 09/23/22 |
+| Accounts | Article | [Click here](https://solanacookbook.com/core-concepts/accounts.html#facts) |Solanacookbook.com| 08/18/22 |
+| Account Storage | Article | [Click here](https://solana.wiki/zh-cn/docs/account-model/#account-storage) |Solana.wiki| 05/08/21 |
+| Solana accounts explained  | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1452402100470644739?s=21) |Twitter - @pencilflip| 10/25/21 |
+| A Deep Dive into Solana Account Model (1) — Introduction | Article |[Click here](https://medium.com/@lianxiongdi/a-deep-dive-into-solana-account-model-1-introduction-7b0408656593)|Medium.com| 02/06/22 |
+| A Deep Dive into Solana Account Model (2) — SPL Token | Article | [Click here](https://medium.com/@lianxiongdi/a-deep-dive-into-solana-account-model-2-spl-token-d029d97aa6e0)|Medium.com| 02/09/22 |
+| Account Model | Article | [Click here](https://solana.wiki/zh-cn/docs/account-model/ )|Solana.wiki| 05/08/21 |
+| Paginating and ordering accounts in Solana | Article |[Click here](https://lorisleiva.com/paginating-and-ordering-accounts-in-solana) |Lorisleiva.com|  |
+| Solana tutorial #1: Solana accounts | Article | [Click here](https://ackeeblockchain.com/blog/solana-tutorial-1-solana-accounts/) |Ackeeblockchain.com| 11/05/21 |
+| Understand Solana with Solscan: Solana Account Explained | Article | [Click here](https://solscan.substack.com/p/understand-solana-with-solscan-solana)|Substack.com|08/30/22 |
+| Transfer of Sol between accounts | Article |[Click here](https://developers.ledger.com/docs/transport/tutorial-1-usb-solana/) |Ledger.com|  |
+| Account abstraction | Twitter Thread | [Click here](https://twitter.com/SquadsProtocol/status/1600489076569751552) |Twitter - @SquadsProtocol| 12/07/22 |
+| What are Solana Accounts?  | Video | [Click here](https://youtu.be/1dYNdcN2Oa0) |Youtube - Solandy| 12/22/21 |
+| How Your Data & Programs are Stored on Solana - Solana's Account System | Video |[Click here](https://youtu.be/Ymm51po9508) |Youtube - Solana Sun| 03/06/22 |
+| How To Get Solana Token Accounts From A Wallet Address | Video | [Click here](https://youtu.be/h3Qad6k0xFc) |Youtube - QuickNode| 06/23/22 |
+| Solana Bytes - Custom Account Data | Video | [Click here](https://youtu.be/SCS6jt8sye0) |Youtube -Solana| 09/09/22 |
+| Solana Bytes - Accounts | Video |[Click here](https://youtu.be/0_j0rQ9Bvks) |Youtube - Solana| 09/09/22 |
+| How to Freeze Token Accounts | Video | [Click here](https://youtu.be/ofJo9NQiCBU) |Youtube - Solandy| 03/02/22 |
 
 
