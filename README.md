@@ -185,4 +185,49 @@ A complete collection of all the Solana programming resources available for deve
 | What is Solana? How Does It Work? | Article | [Click here](https://solanacompass.com/solana/what-is-solana-how-does-it-work#what-is-a-solana-cluster)|Solanacompass||
 | A Solana Cluster. Solana Documentation. Learn How Solana Works | Video |[Click here]( https://youtu.be/8HIor6Zqwp0) |Youtube - Youni| 01/23/22 |
 
+## Validators
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Anatomy of a Validator | Article | [Click here](https://docs.solana.com/validator/anatomy) |Solana Docs|  |
+| TPU (Transaction Processing Unit) | Article | [Click here](https://docs.solana.com/validator/tpu) |Solana Docs|  |
+| TVU | Article | [Click here](https://docs.solana.com/validator/tvu) |Solana Docs|  |
+| Blockstore | Article | [Click here](https://docs.solana.com/validator/blockstore) |Solana Docs|  |
+| Gossip Service | Article | [Click here](https://docs.solana.com/validator/gossip) |Solana Docs|  |
+| The Runtime | Article | [Click here](https://docs.solana.com/validator/runtime) |Solana Docs|  |
+| Starting a Validator | Article | [Click here](https://docs.solana.com/running-validator/validator-start) |Solana Docs|  |
+| Validator - Vote Account Management | Article | [Click here](https://docs.solana.com/running-validator/vote-accounts) |Solana Docs|  |
+| Staking | Article | [Click here](https://docs.solana.com/running-validator/validator-stake) |Solana Docs|  |
+| Monitoring a Validator | Article | [Click here](https://docs.solana.com/running-validator/validator-monitor) |Solana Docs| |
+| Publishing Validator Info | Article | [Click here](https://docs.solana.com/running-validator/validator-info) |Solana Docs|  |
+| Validator - Failover Setup | Article | [Click here](https://docs.solana.com/running-validator/validator-failover) |Solana Docs|  |
+| What is a Solana Validator? | Article | [Click here](https://www.shakudo.io/blog/what-is-a-solana-validator) |Shakudo| 07/08/22 |
+| How Solana Staking Works | Article | [Click here](https://blockdaemon.com/products/white-label-validator/how-solana-staking-works/) |Blockdaemon|  |
+| Solana: How to pick a validator | Article | [Click here](https://laine-sa.medium.com/solana-how-to-pick-a-validator-52b3f17ff616) |Medium| 09/06/21 |
+| Solana Validators | Article | [Click here](https://blockdaemon.com/documentation/guides/solana/solana-validators/) |Blockdaemon|  |
+| What Is A Validator? | Article | [Click here](https://www.solana-validator-guidebook.com/solana-introduction/what-is-a-validator) |Solana Validator|  |
+| Solana Validator Workshop | Twitter Thread | [Click here](https://twitter.com/everstake_pool/status/1572616649605525504) |Twitter - @everstake_pool| 09/21/22 |
+| validator network | Twitter Thread | [Click here](https://twitter.com/SolanaFndn/status/1557410014490419200) |Twitter - @SolanaFndn| 08/10/22 |
+| Why Solana is more decentralized than you think ? | Twitter Thread | [Click here](https://twitter.com/UltimateMoney/status/1551609302774796288)|Twitter -@SolanaFndn|07/25/22 |
+| What are Solana Validators and How do they Work?  | Article | [Click here](https://ascendex.com/en/discover/education/what-are-solana-validators/ )|Ascendex|09/01/22|
+| Everything about Staking Solana; Validators, Apps, and a Solstake.io Full Tutorial | Video |[Click here](https://youtu.be/zi-y-de9uzc)|Youtube - Seb Montgomery|07/25/21 |
+| Solana Staking how to pick the best Validator. Everstake vs small validators. | Video | [Click here](https://youtu.be/Uoe2mqS3KFc) |Youtube - Sol Play| 01/18/22 |
+| How We Built Novel Staking Infrastructure For a Solana Validator | Article | [Click here](https://pulse.moonfire.com/how-we-built-novel-staking-infrastructure-for-a-solana-validator/) |Moonfire| 08/30/22 |
 
+## Solana CLI
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Command-line Guide | Article | [Click here](https://docs.solana.com/cli) |Solana Docs|  |
+| Command Line Wallets | Article | [Click here](https://docs.solana.com/wallet-guide/cli) |Solana Docs|  |
+| Using Solana CLI | Article | [Click here](https://docs.solana.com/cli/conventions) |Solana Docs|  |
+| CLI Usage Reference | Article | [Click here](https://docs.solana.com/cli/usage )|Solana Docs|  |
+| Command-line Interface | Article | [Click here](https://spl.solana.com/stake-pool/cli) |Solana|  |
+| Setting up a Solana CLI Wallet | Article | [Click here](https://docs.metaplex.com/guides/cli-wallet) |Metaplex| 01/25/23 |
+| Solana Automation CLI is here | Article | [Click here](https://medium.com/@snowflake_so/snowflake-cli-is-here-be75840bfbf3) |Medium| 03/22/22 |
+| Introduction to Solana and the spl-token command line | Article | [Click here](https://rya-sge.github.io/access-denied/2022/08/06/solana-spl-token/)|Github|08/06/22|
+| How do Solana CPIs work? | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1469364878066565126?s=20) |Twitter - @pencilflip| 12/10/21 |
+| Learn Solana CLI | Article | [Click here](https://hackmd.io/@n795113/solana-cli) |Hackmd|  |
+| The Solana CLI (Command Line Interface) | Video | [Click here](https://youtu.be/kPGdWm0keog) |Youtube - Procedural Nodes| 09/30/21 |
+| Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc) | Video | [Click here](https://youtu.be/pNzT3hgFbpg) |Youtube - Nick Frostbutter| 09/05/22 |
+| How to use your Phantom wallet with CLI  | Video | [Click here](https://youtu.be/9up-j1dmiGs) |Youtube - Solandy| 07/05/22 |
+| The state of program admin keys in Solana | Twitter Thread | [Click here](https://twitter.com/0xGoki/status/1471167946412019716) |Twitter - @0xGoki| 12/15/21 |
+| Solana CLI | Video | [Click here](https://youtu.be/CsKbzsN7q1o) |Youtube - Coding & Crypto| 04/09/22 |
