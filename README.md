@@ -290,3 +290,35 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Economics | Article | [Click here](https://medium.com/figment/solana-economics-d96504b36007) |Medium| 02/04/21 |
 | Solana Validator Economics | Article | [Click here](https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6) |Medium| 08/23/22 |
 
+## Solana Program Security
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| How to approach the Program Security module | Article | [Click here](https://soldev.app/course/security-intro) |Soldev|  |
+| Signer Authorization | Article | [Click here](https://soldev.app/course/signer-auth) |Soldev|  |
+| Owner Checks | Article | [Click here](https://soldev.app/course/owner-checks) |Soldev|  |
+| Account Data Matching | Article | [Click here](https://soldev.app/course/account-data-matching) |Soldev|  |
+| Reinitialization Attacks | Article | [Click here](https://soldev.app/course/reinitialization-attacks) |Soldev|  |
+| Duplicate Mutable Accounts | Article | [Click here](https://soldev.app/course/duplicate-mutable-accounts) |Soldev|  |
+| Type Cosplay | Article | [Click here](https://soldev.app/course/type-cosplay) |Soldev|  |
+| Arbitrary CPI | Article |[Click here]( https://soldev.app/course/arbitrary-cpi) |Soldev|  |
+| Bump Seed Canonicalization | Article | [Click here](https://soldev.app/course/bump-seed-canonicalization) |Soldev|  |
+| Closing Accounts and Revival Attacks | Article | [Click here](https://soldev.app/course/closing-accounts) |Soldev|  |
+| PDA Sharing | Article | [Click here](https://soldev.app/course/pda-sharing) |Soldev|  |
+| SOLANA PROGRAM SECURITY – PART1 (from FYEO, formerly Kudelski) | Article | [Click here](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)|Kudelskisecurity|09/15/21 |
+| Security Policy | Github | [Click here](https://github.com/solana-labs/solana/security/policy) |Github - solana-labs|  |
+| sealevel-attacks | Github |[Click here]( https://github.com/coral-xyz/sealevel-attacks) |Github -coral-xyz|  |
+| Code and implementation Security Assessment (from FYEO, formerly Kudelski) | Document | [Click here](https://solana.com/SolanaKudelskiStakePoolAudit.pdf)|Solana|07/07/21 |
+| Solana Auditing and Security Resources | Github | [Click here](https://github.com/0xsanny/solsec) |Github - 0xsanny|  |
+| How To Develop a Secure Solana Program: Types | Article | [Click here](https://www.ulam.io/blog/how-to-develop-a-secure-solana-program-types) |Ulam Labs| 08/18/22 |
+| Solana Security Workshop | Article | [Click here](https://workshop.neodyme.io/index.html) |Solana Security Workshop|  |
+| A Review of Recent Hacks on Solana | Article | [Click here](https://www.sec3.dev/blog/recent-hacks) |Sec3| 09/06/22 |
+| A Framework for Formal Verification of Solana Programs | Video | [Click here](https://youtu.be/gELdrTmw26g)  |Youtue - Solana| 11/07/22 |
+| Lessons Learned From Auditing Solana | Video |[Click here]( https://youtu.be/Z_nnby_MSrM ) |Youtube - Solana| 11/07/22 |
+| How to audit Solana smart contracts Part 1: a systematic approach | Article | [Click here](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c9ed) |Medium| 11/11/21 |
+| How to audit Solana smart contracts Part 2: automated scanning | Article | [Click here](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-2-automated-scanning-ceb88830ae6d) |Medium| 11/13/21 |
+| How to audit Solana smart contracts Part 3: penetration testing | Article | [Click here](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-3-penetration-testing-a315b3bbb2d3) |Medium| 12/08/21 |
+| Solana Smart Contracts: Common Pitfalls and How to Avoid Them | Article | [Click here](https://blog.neodyme.io/posts/solana_common_pitfalls/) |Neodyme| 08/20/21 |
+| Solend Auditing Workshop | Document | [Click here](https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/edit?pli=1#slide=id.ge15c343642_0_51)|Solendprotocol |06/30/21 |
+| Soteria — A vulnerability scanner for Solana smart contracts | Article |[Click here]( https://medium.com/coinmonks/soteria-a-vulnerability-scanner-for-solana-smart-contracts-cc202cf17c99 )|Medium| 10/09/21 |
+| The Vulnerabilities You’ll Write With Anchor | Article |[Click here](https://www.zellic.io/blog/the-vulnerabilities-youll-write-with-anchor) |Zellic| 08/16/22 |
+| Solana: An Auditor's Introduction | Article | [Click here](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/) |Osec| 03/14/22 |
