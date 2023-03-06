@@ -326,5 +326,41 @@ A complete collection of all the Solana programming resources available for deve
 ## Anchor
 |Title of the Content|Content Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
-
+| Intro to Anchor development | Article | [Click here](https://soldev.app/course/intro-to-anchor) |Soldev|  |
+| Intro to client-side Anchor development | Article | [Click here](https://soldev.app/course/intro-to-anchor-frontend) |Soldev|  |
+| Anchor PDAs and Accounts | Article | [Click here](https://soldev.app/course/anchor-pdas) |Soldev|  |
+| Anchor CPIs and Errors | Article | [Click here](https://soldev.app/course/anchor-cpi) |Soldev|  |
+| Anchor | Article | [Click here](https://www.anchor-lang.com) |Anchor|  |
+| Installation | Article | [Click here](https://www.anchor-lang.com/docs/installation) |Anchor|  |
+| Intro to Programming on Solana | Article | [Click here](https://www.anchor-lang.com/docs/intro-to-solana) |Anchor|  |
+| High-level Overview | Article | [Click here](https://www.anchor-lang.com/docs/high-level-overview) |Anchor|  |
+| The Accounts Struct | Article | [Click here](https://www.anchor-lang.com/docs/the-accounts-struct) |Anchor|  |
+| The Program Module | Article | [Click here](https://www.anchor-lang.com/docs/the-program-module) |Anchor|  |
+| Errors | Article | [Click here](https://www.anchor-lang.com/docs/errors) |Anchor|  |
+| Cross-Program Invocations  | Article | [Click here](https://www.anchor-lang.com/docs/cross-program-invocations) |Anchor|  |
+| Program Derived Addresses | Article | [Click here](https://www.anchor-lang.com/docs/pdas) |Anchor|  |
+| anchor-by-example | Github | [Click here](https://github.com/coral-xyz/anchor-by-example) |Github - coral-xyz|  |
+| anchor | Github | [Click here](https://github.com/coral-xyz/anchor) |Github - coral-xyz|  |
+| Using PDAs and SPL Token in Anchor | Article | [Click here](https://betterprogramming.pub/using-pdas-and-spl-token-in-anchor-and-solana-df05c57ccd04)|Betterprogramming|11/16/21|
+| Getting started with Solana and Anchor | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/getting-started-with-solana-and-anchor)|Lorisleiva|  |
+| Crate anchor_lang | Article | [Click here](https://docs.rs/anchor-lang/latest/anchor_lang/) |RS Docs|  |
+| Solana Bytes - Intro to Anchor | Video | [Click here](https://youtu.be/90BTugVYGqQ?list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm) |Youtube - Solana| 09/01/22 |
+| Creating a Solana Program with Anchor | Article | [Click here](https://adept.at/forked/solana-blockchain-development#forked/creating-a-solana-program-with-anchor)|Adept|01/25/22|
+| Introduction to Anchor Solana development | Video | [Click here](https://youtu.be/fPsH77ZoXt4) |Youtube - Chainlink| 04/25/22 |
+| Intro to Anchor Solana Development | Video | [Click here](https://youtu.be/Ru-ywR7rtgY) |Youtube - Chainlink 10/20/22 |
+| Anchor: A Powerful Framework for Solana Developers | Article | [Click here](https://hackmd.io/@ironaddicteddog/solana-anchor-escrow) |Hackmd|  |
+| Anchor IDLs | Twitter Thread | [Click here](https://twitter.com/jozanza/status/1481098724008992772) |Twitter - @jozanza| 10/20/22 |
+| Anchor Workshop | Video | [Click here](https://youtu.be/dZ3Nhz8cfUs)  |Youtube - Solana| 11/07/22 |
+| Build Solana Smart Contracts & DApps using Anchor Rust & React from scratch  | Article | [Click here](https://medium.com/makedeveasy/build-solana-dapps-with-anchor-rust-react-simple-way-5d2e018b0cab) |Medium| 08/15/22 |
+| On-Chain Voting | Article | [Click here](https://examples.anchor-lang.com/docs/onchain-voting) |Anchor Examples|  |
+| Write Your First Anchor Program: Building a Vesting Schedule | Video | [Click here](https://youtu.be/aWIULtXsPjM)  |Youtube - Solana| 11/07/22 |
+| Simple tutorial on Solana Rust smart contract with Anchor framework | Article | [Click here](https://blog.techchee.com/simple-tutorial-on-solana-rust-smart-contract-with-anchor-framework/) |Techchee|  |
+| Anchor: Solana Sealevel Framework | Article | [Click here](https://morioh.com/p/b663616edcd9) |Morioh|  |
+| Solana Smart Contract Tutorial: Using the Anchor Framework | Video | [Click here](https://youtu.be/CmG5_sIas1Q) |Youtube - Josh's DevBox| 03/02/22 |
+| How to Anchor: An introduction to the Anchor Framework | Video | [Click here](https://youtu.be/FmdPAwsqJC4) |Youtube - Solana| 09/09/21 |
+| CPI Call's | Github | [Click here](https://github.com/0xPratik/NFT) |Github - Solana|  |
+| Writing a Solana Program with Anchor  | Video | [Click here](https://youtu.be/pCM3jY2aVmQ) |Youtube - Solandy| 02/06/22 |
+| Solana Tutorial: Creating PDA's with Anchor | Video | [Click here](https://youtu.be/A1TMZxZz9Q8) |Youtube - Josh's DevBox| 07/16/22 |
+| Programming Solana Smart Contracts  Intermediate Anchor Tutorial | Video | [Click here](https://youtu.be/i6Ycr5nhjH8) |Youtube - Henry-E| 05/19/21 |
+| How to Build & Deploy a Solana Smart Contract using Anchor | Article | [Click here](https://www.becomebetterprogrammer.com/create-solana-smart-contract/)|Becomebetterprogrammer|02/02/22 |
 
