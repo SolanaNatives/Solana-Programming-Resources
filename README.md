@@ -231,3 +231,62 @@ A complete collection of all the Solana programming resources available for deve
 | How to use your Phantom wallet with CLI  | Video | [Click here](https://youtu.be/9up-j1dmiGs) |Youtube - Solandy| 07/05/22 |
 | The state of program admin keys in Solana | Twitter Thread | [Click here](https://twitter.com/0xGoki/status/1471167946412019716) |Twitter - @0xGoki| 12/15/21 |
 | Solana CLI | Video | [Click here](https://youtu.be/CsKbzsN7q1o) |Youtube - Coding & Crypto| 04/09/22 |
+
+## Serialization
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Serializing Data | Article | [Click here](https://solanacookbook.com/guides/serialization.html) |Solanacookbook| 09/20/22 |
+| How to Deserialize Account Data on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-deserialize-account-data-on-solana)|Quicknode|01/23/23 |
+| Serializing Instruction Data | Video | [Click here](https://youtu.be/jNN7ObT0vi4) |Youtube - Solandy| 09/15/22 |
+| Guide on Serialization | Twitter Thread | [Click here](https://twitter.com/sayantanxyz/status/1484919027399016452) |Twitter - @sayantanxyz| 01/22/22 |
+| Deserializing Custom Account Data  | Video | [Click here](https://youtu.be/68ZyfTKfIPU) |Youtube - Solandy| 10/07/22 |
+
+## Solana Program Library
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| SPL Introduction | Article |[Click here]( https://spl.solana.com) |Solana|  |
+| Token Program | Article | [Click here](https://spl.solana.com/token) |Solana|  |
+| Token Swap Program | Article | [Click here](https://spl.solana.com/token-swap) |Solana|  |
+| Token-Lending Program | Article | [Click here](https://spl.solana.com/token-lending) |Solana|  |
+| Associated Token Account Program | Article | [Click here](https://spl.solana.com/associated-token-account) |Solana|  |
+| Token Upgrade Program | Article | [Click here](https://spl.solana.com/token-upgrade) |Solana|  |
+| Memo Program | Article | [Click here](https://spl.solana.com/memo) |Solana|  |
+| Name Service | Article | [Click here](https://spl.solana.com/name-service) |Solana|  |
+| Shared memory Program | Article | [Click here](https://spl.solana.com/shared-memory) |Solana|  |
+| Feature Proposal Program | Article | [Click here](https://spl.solana.com/feature-proposal) |Solana|  |
+| Token-2022 Program | Article | [Click here](https://spl.solana.com/token-2022) |Solana|  |
+| Use Token-2022 for Everything  | Video | [Click here](https://youtu.be/Gr0cSdqIjD4)  |Youtube - Solana| 11/07/22 |
+| Solana zk tokens - A Primer | Twitter Thread | [Click here](https://twitter.com/harsh4786/status/1495801917011898375) |Twitter - @harsh4786| 02/21/22 |
+| SPL tokens | Twitter Thread | [Click here](https://twitter.com/sayantanxyz/status/1481318370322653184?s=21) |Twitter - @sayantanxyz| 01/12/22 |
+| Building an SPL-token-faucet on Solana | Article | [Click here](https://medium.com/credix/building-an-spl-token-faucet-on-solana-2b8a07d364ff) |Medium| 12/07/21 |
+| solana-program-library | Github | [Click here](https://github.com/solana-labs/solana-program-library) |Github - solana-labs|  |
+| Yield Farming | Github |[Click here]( https://github.com/solana-labs/solana-program-library/tree/master/farms) |Github - solana-labs|  |
+| Token Lending | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/token-lending) |Github - solana-labs|  |
+| Stake Pool | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/stake-pool) |Github - solana-labs|  |
+| Name Service | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/name-service) |Github - solana-labs|  |
+| Governance | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/governance)|Github - solana-labs|  |
+| Token | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/token) |Github - solana-labs|  |
+| Token Swap   | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) |Github - solana-labs|  |
+| Shared Memory   | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/shared-memory) |Github - solana-labs|  |
+| Confidential Token Program | Github | [Click here](https://github.com/solana-labs/obsolete-spl-zk-token) |Github - solana-labs|  |
+| Stateless Offer | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/stateless-asks) |Github - solana-labs|  |
+| Memo Program | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/memo) |Github - solana-labs|  |
+| Binary Option | Github | [Click here](https://github.com/solana-labs/solana-program-library/tree/master/binary-option) |Github - solana-labs|  |
+| Associated Token Accounts and risks of signing an unknown setAuthority() transaction |Twitter Thread|[Click here](https://twitter.com/theDeFiBat/status/1514658877089980416)|Twitter - @theDeFiBat|04/14/22 |
+| The SPL Token Program | Video | [Click here](https://youtu.be/ePJbSv8-9fk) |Youtube - Solandy| 10/21/22 |
+| Diagramming Accounts | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1459631153082552320?s=21) |Twitter - @pencilflip| 11/14/21 |
+| Solana SPL Token Beginner's Guide | Article | [Click here](https://www.avanawallet.com/en/blog/solana-spl-token-beginners-guide-6c73c065/) |Avanawallet| 10/06/22 |
+
+## Solana Economics
+|Title of the Content|Content Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Solana Economics Overview | Article | [Click here](https://docs.solana.com/economics_overview) |Solana Docs|  |
+| Terminology for Economics | Article | [Click here](https://docs.solana.com/inflation/terminology) |Solana Docs|  |
+| Solana's Proposed Inflation Schedule | Article | [Click here](https://docs.solana.com/inflation/inflation_schedule) |Solana Docs|  |
+| Adjusted Staking Yield | Article | [Click here](https://docs.solana.com/inflation/adjusted_staking_yield) |Solana Docs|  |
+| Transaction Fees | Article | [Click here](https://docs.solana.com/transaction_fees) |Solana Docs|  |
+| Storage Rent Economics | Article | [Click here](https://docs.solana.com/storage_rent_economics) |Solana Docs|  |
+| Validation-client Economics | Article | [Click here](https://docs.solana.com/implemented-proposals/ed_overview/ed_validation_client_economics/ed_vce_overview)|Solana Docs|  |
+| Solana Economics | Article | [Click here](https://medium.com/figment/solana-economics-d96504b36007) |Medium| 02/04/21 |
+| Solana Validator Economics | Article | [Click here](https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6) |Medium| 08/23/22 |
+
