@@ -2,7 +2,7 @@
 A complete collection of all the Solana programming resources available for developers.
 
 ## Introduction to Solana 
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 |Introduction|Article|[Click here](https://docs.solana.com/introduction)|Solana Docs||
 |An Introduction to Solana|Article|[Click here](https://grayscale.com/learn/an-introduction-to-solana/)|Grayscale||
@@ -12,7 +12,7 @@ A complete collection of all the Solana programming resources available for deve
 |Solana Bootcamp - Day 1 - Intro to Solana|Video|[Click here](https://youtu.be/O0uhZEfVPt8) |Youtube - Solana|01/21/22|
 
 ## Proof of History (Consensus Algorithm)
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 |Proof of History: How Solana brings time to crypto |Article|[Click here](https://solana.com/news/proof-of-history)|Solana|11/30/21|
 |Solana blockchain and the Proof of History|Article|[Click here](https://www.infoworld.com/article/3666736/solana-blockchain-and-the-proof-of-history.html#:~:text=version%20of%20truth.-,Solana%27s%20Proof%20of%20History,time%20and%20lower%20transaction%20costs)|Infoworld|07/28/22|
@@ -21,7 +21,7 @@ A complete collection of all the Solana programming resources available for deve
 |Solana's Core Innovation: Proof of History - How Solana Hit 60 Billion Transactions!|Video|[Click here](https://youtu.be/SRJXnBhimMg)|Youtube - Solana Sun|03/03/22|
 
 ## Setting up a development environment
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 |Solana Development Tutorial: Environment setup|Article|[Click here](https://solongwallet.medium.com/solana-development-tutorial-environment-setup-2649cb81305)|Medium|11/24/21|
 |How to Set Up Your Solana Development Environment|Article|[Click here](https://docs.alchemy.com/docs/how-to-setup-your-solana-development-environment)|Alchemy| |
@@ -32,7 +32,7 @@ A complete collection of all the Solana programming resources available for deve
 |How to Install Solana on Windows |Video|[Click here](https://youtu.be/6CV5Rqpit28)|Youtube - MammothInteractive|04/15/22|
 
 ## Program (Smart Contract) Development
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 |How to Write a Solana Smart Contract?|Article|[Click here](https://moralis.io/how-to-write-a-solana-smart-contract/#:~:text=Solana%20is%20an%20open-source,than%2C%20for%20example%2C%20Ethereum)|Moralis|10/14/22|
 |How to Build and Deploy a Solana Smart Contract?|Article|[Click here](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)|Chainlink|09/17/21|
@@ -56,7 +56,7 @@ A complete collection of all the Solana programming resources available for deve
 |Programming on Solana - Smart Contract Hello World Program in Rust  |Video  |[Click here](https://youtu.be/EVe--3dtaM4) |Youtube - Harkirat Singh|02/23/22|
 
 ## Program Derived Addresses
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Program Derived Addresses  | Twitter Thread |[Click here](https://twitter.com/pencilflip/status/1455948263853600768?s=21) |Twitter - @pencilflip|11/03/21 |
 | Program Derived Addresses (PDAs)  | Article |[Click here](https://solanacookbook.com/core-concepts/pdas.html#facts) |Solanacookbook|08/18/22 |
@@ -71,7 +71,7 @@ A complete collection of all the Solana programming resources available for deve
 | How to Use Program Derived Addresses in Your Solana Anchor Program | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-program-derived-addresses-in-your-solana-anchor-program)|Quicknode|01/09/23 |
 
 ## Transactions
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Transactions | Article | [Click here](https://docs.solana.com/developing/programming-model/transactions) |Solana Docs| |
 | Versioned Transactions | Artile |  [Click here](https://docs.solana.com/developing/versioned-transactions) |Solana Docs|  |
@@ -88,7 +88,7 @@ A complete collection of all the Solana programming resources available for deve
 | How to Use Versioned Transactions on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-versioned-transactions-on-solana)|Quicknode| 10/18/22 |
 
 ## Accounts
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Accounts | Article | [Click here](https://docs.solana.com/developing/programming-model/accounts) |Solana Docs|  |
 | An Introduction to the Solana Account Model | Article | [Click here](https://www.quicknode.com/guides/solana-development/an-introduction-to-the-solana-account-model)|Quicknode| 09/23/22 |
@@ -111,14 +111,14 @@ A complete collection of all the Solana programming resources available for deve
 | How to Freeze Token Accounts | Video | [Click here](https://youtu.be/ofJo9NQiCBU) |Youtube - Solandy| 03/02/22 |
 
 ## Tokenomics
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Solana Tokenomics Explained | Article |[Click here]( https://academy.shrimpy.io/post/solana-tokenomics-explained) |Shrimpy|10/05/22 |
 | Solana (SOL) Tokenomics | Article | [Click here](https://www.coingecko.com/en/coins/solana/tokenomics) |Coingecko| 07/18/22 |
 | Tokenomics | Article | [Click here](https://docs.solanium.io/tokenomics) |Solanium Docs|  |
 
 ## Client interaction with the Solana Network
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Read Data From The Solana Network | Article |[Click here]( https://soldev.app/course/intro-to-reading-data) |Soldev|  |
 | Write Data To The Solana Network | Article | [Click here](https://soldev.app/course/intro-to-writing-data) |Soldev|  |
@@ -136,7 +136,7 @@ A complete collection of all the Solana programming resources available for deve
 | Integrating with Solana wallets | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/integrating-with-solana-wallets)|Lorisleiva|02/10/22 |
 
 ## Tokens
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Create Tokens With The Token Program | Article |[Click here]( https://soldev.app/course/token-program) |Soldev|  |
 |  Lecture/Demo: How to build a simple token program | Video | [Click here](https://youtu.be/sPtayIqP4u0) |Youtube - Solana|  01/20/22 |
@@ -157,7 +157,7 @@ A complete collection of all the Solana programming resources available for deve
 | Create your own token | Video | [Click here](https://youtu.be/rd8aGy-UxvY) |Youtube - Harkirat Singh| 02/23/22 |
 
 ## Hello World Program Development 
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Hello World | Article |[Click here]( https://soldev.app/course/hello-world-program) |Soldev|  |
 | Hello World Quickstart Guide | Article |[Click here]( https://docs.solana.com/getstarted/hello-world) |Solana Docs|  |
@@ -172,7 +172,7 @@ A complete collection of all the Solana programming resources available for deve
 | Hello World Increment Program | Video | [Click here](https://youtu.be/I_9URizSO80) |Youtube - NpmRunProgram| 06/01/22 |
 
 ## Clusters
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | A Solana Cluster  | Article | [Click here](https://docs.solana.com/cluster/overview) |Solana Docs|  |
 | Solana Clusters  | Article | [Click here](https://docs.solana.com/clusters) |Solana Docs|  |
@@ -186,7 +186,7 @@ A complete collection of all the Solana programming resources available for deve
 | A Solana Cluster. Solana Documentation. Learn How Solana Works | Video |[Click here]( https://youtu.be/8HIor6Zqwp0) |Youtube - Youni| 01/23/22 |
 
 ## Validators
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Anatomy of a Validator | Article | [Click here](https://docs.solana.com/validator/anatomy) |Solana Docs|  |
 | TPU (Transaction Processing Unit) | Article | [Click here](https://docs.solana.com/validator/tpu) |Solana Docs|  |
@@ -214,7 +214,7 @@ A complete collection of all the Solana programming resources available for deve
 | How We Built Novel Staking Infrastructure For a Solana Validator | Article | [Click here](https://pulse.moonfire.com/how-we-built-novel-staking-infrastructure-for-a-solana-validator/) |Moonfire| 08/30/22 |
 
 ## Solana CLI
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Command-line Guide | Article | [Click here](https://docs.solana.com/cli) |Solana Docs|  |
 | Command Line Wallets | Article | [Click here](https://docs.solana.com/wallet-guide/cli) |Solana Docs|  |
@@ -233,7 +233,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana CLI | Video | [Click here](https://youtu.be/CsKbzsN7q1o) |Youtube - Coding & Crypto| 04/09/22 |
 
 ## Serialization
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Serializing Data | Article | [Click here](https://solanacookbook.com/guides/serialization.html) |Solanacookbook| 09/20/22 |
 | How to Deserialize Account Data on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-deserialize-account-data-on-solana)|Quicknode|01/23/23 |
@@ -242,7 +242,7 @@ A complete collection of all the Solana programming resources available for deve
 | Deserializing Custom Account Data  | Video | [Click here](https://youtu.be/68ZyfTKfIPU) |Youtube - Solandy| 10/07/22 |
 
 ## Solana Program Library
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | SPL Introduction | Article |[Click here]( https://spl.solana.com) |Solana|  |
 | Token Program | Article | [Click here](https://spl.solana.com/token) |Solana|  |
@@ -278,7 +278,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana SPL Token Beginner's Guide | Article | [Click here](https://www.avanawallet.com/en/blog/solana-spl-token-beginners-guide-6c73c065/) |Avanawallet| 10/06/22 |
 
 ## Solana Economics
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Solana Economics Overview | Article | [Click here](https://docs.solana.com/economics_overview) |Solana Docs|  |
 | Terminology for Economics | Article | [Click here](https://docs.solana.com/inflation/terminology) |Solana Docs|  |
@@ -291,7 +291,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Validator Economics | Article | [Click here](https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6) |Medium| 08/23/22 |
 
 ## Solana Program Security
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | How to approach the Program Security module | Article | [Click here](https://soldev.app/course/security-intro) |Soldev|  |
 | Signer Authorization | Article | [Click here](https://soldev.app/course/signer-auth) |Soldev|  |
@@ -324,7 +324,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana: An Auditor's Introduction | Article | [Click here](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/) |Osec| 03/14/22 |
 
 ## Anchor
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Intro to Anchor development | Article | [Click here](https://soldev.app/course/intro-to-anchor) |Soldev|  |
 | Intro to client-side Anchor development | Article | [Click here](https://soldev.app/course/intro-to-anchor-frontend) |Soldev|  |
@@ -365,7 +365,7 @@ A complete collection of all the Solana programming resources available for deve
 | How to Build & Deploy a Solana Smart Contract using Anchor | Article | [Click here](https://www.becomebetterprogrammer.com/create-solana-smart-contract/)|Becomebetterprogrammer|02/02/22 |
 
 ## Building dapps
-|Title of the Content|Content Type|Link|Source|Date|
+|Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 | Solana Dapp Development | Article | [Click here](https://medium.com/coinmonks/solana-dapp-development-b0516720482a) |Medium| 08/03/22 |
 | Create a simple blog dApp on Solana | Article | [Click here](https://learn.figment.io/tutorials/create-a-simple-blog-dapp-on-solana) |Figment|  |
