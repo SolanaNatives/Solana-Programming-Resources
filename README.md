@@ -304,10 +304,10 @@ A complete collection of all the Solana programming resources available for deve
 | Bump Seed Canonicalization | Article | [Click here](https://soldev.app/course/bump-seed-canonicalization) |Soldev|  |
 | Closing Accounts and Revival Attacks | Article | [Click here](https://soldev.app/course/closing-accounts) |Soldev|  |
 | PDA Sharing | Article | [Click here](https://soldev.app/course/pda-sharing) |Soldev|  |
-| SOLANA PROGRAM SECURITY – PART1 (from FYEO, formerly Kudelski) | Article | [Click here](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)|Kudelski Security|09/15/21 |
+| Solana program security - Part 1 (from FYEO, formerly Kudelski) | Article | [Click here](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)|Kudelski Security|09/15/21 |
+| Code and implementation Security Assessment (from FYEO, formerly Kudelski) | Document | [Click here](https://solana.com/SolanaKudelskiStakePoolAudit.pdf)|Solana|07/07/21 |
 | Security Policy | Github | [Click here](https://github.com/solana-labs/solana/security/policy) |Github - Solana Labs|  |
 | sealevel-attacks | Github |[Click here]( https://github.com/coral-xyz/sealevel-attacks) |Github - coral xyz|  |
-| Code and implementation Security Assessment (from FYEO, formerly Kudelski) | Document | [Click here](https://solana.com/SolanaKudelskiStakePoolAudit.pdf)|Solana|07/07/21 |
 | Solana Auditing and Security Resources | Github | [Click here](https://github.com/0xsanny/solsec) |Github - sanny|  |
 | How To Develop a Secure Solana Program: Types | Article | [Click here](https://www.ulam.io/blog/how-to-develop-a-secure-solana-program-types) |Ulam Labs| 08/18/22 |
 | Solana Security Workshop | Article | [Click here](https://workshop.neodyme.io/index.html) |Solana Security Workshop|  |
