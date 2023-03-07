@@ -373,18 +373,18 @@ A complete collection of all the Solana programming resources available for deve
 | Minting NFTs on Solana at Scale | Video | [Click here](https://youtu.be/o-xGxPJ5Ze8)  |Youtube - Solana| 11/07/22 |
 | Tutorial for building simple Solana DeFi Dashboard dApp with Moralis | Article | [Click here](https://reactjsexample.com/tutorial-for-building-simple-solana-defi-dashboard-dapp-with-moralis/)|React.js Examples| 02/15/22 |
 | Create a Solana dApp from scratch | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch) |Lorisleiva|  |
-| Building a calculator using Solana programs | Article | [Click here](https://openquest.xyz/quest/solana-calculator) |Openquest|  |
-| Build a Crowdfunding platform on Solana | Article | [Click here](https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana) |Figment|  |
-| Create a fullstack mail dApp on Solana | Article | [Click here](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana) |Figment|  |
-| Building a messaging app on Solana | Article | [Click here](https://openquest.xyz/quest/solana-messaging-app) |Openquest|  |
-| Create your personal Solana wallet | Article | [Click here](https://openquest.xyz/quest/create_personal_wallet) |Openquest|  |
-| Solana Workshop dApps | Github | [Click here](https://github.com/solana-developers/workshop-dapps) |Github - solana-developers|  |
+| Building a calculator using Solana programs | Article | [Click here](https://openquest.xyz/quest/solana-calculator) |Questbook|  |
+| Build a Crowdfunding platform on Solana | Article | [Click here](https://learn.figment.io/tutorials/build-a-crowdfunding-platform-on-solana) |Figment Learn|  |
+| Create a fullstack mail dApp on Solana | Article | [Click here](https://learn.figment.io/tutorials/create-a-fullstack-mail-dapp-on-solana) |Figment Learn|  |
+| Building a messaging app on Solana | Article | [Click here](https://openquest.xyz/quest/solana-messaging-app) |Questbook|  |
+| Create your personal Solana wallet | Article | [Click here](https://openquest.xyz/quest/create_personal_wallet) |Questbook|  |
+| Solana Workshop dApps | Github | [Click here](https://github.com/solana-developers/workshop-dapps) |Github - Solana Developers|  |
 | How to Build a Solana NFT Explorer | Article | [Click here](https://moralis.io/how-to-build-a-solana-nft-explorer/) |Moralis| 09/07/22 |
 | Writing a dApp to Work With PDA's  | Video | [Click here](https://youtu.be/zoRFutuZimc) |Youtube - Josh's DevBox| 07/21/22 |
 | Build DAPPs with Solana, Rust, and Arweave | Video | [Click here](https://youtu.be/Jz5v_u75xk8) |Youtube - David Choi| 07/21/22 |
 | Solana Smart Contract Tutorial: Using Phantom Wallet to create a DApp  | Video | [Click here](https://youtu.be/vt8GUw_PDqM) |Youtube - Josh's DevBox| 03/13/22 |
 | Building your first dApp on Solana | Video | [Click here](https://youtu.be/2ODRsK31IWk) |Youtube - Harvard Blockchain Club| 11/13/21 |
-| Solana Workshops | Github | [Click here](https://github.com/solana-developers/workshops)  |Github - solana-developers  |
+| Solana Workshops | Github | [Click here](https://github.com/solana-developers/workshops)  |Github - Solana Developers|  |
 | How to Build Your Own ZK App on Solana in Minutes | Video | [Click here](https://youtu.be/L_VKbi60CLo)  |Youtube - Solana| 11/07/22 |
 | Build TikTok Web 3.0 Blockchain App with Solana  | Video | [Click here](https://youtu.be/qIGs3XWybgU) |Youtube - Clever Programmer| 05/18/22 |
 | Build a Blog App with Solana & React  | Video | [Click here](https://youtu.be/PWvbMWyuYNQ) |Youtube - Clever Programmer| 09/26/22 |
@@ -394,16 +394,16 @@ A complete collection of all the Solana programming resources available for deve
 | Build a Web3 app on Solana with React and Rust | Article | [Click here](https://buildspace.so/p/build-solana-web3-app) |Buildspace|  |
 | Build a web3 app on Solana with React and Rust | Video | [Click here](https://youtu.be/bsfjmNmRr8o) |Youtube - Web3Vault| 02/20/22 |
 | Dapps Without Borders- How to Build With xDapp Frameworks | Video | [Click here](https://youtu.be/HEXNAo3y84w)  |Youtube - Solana| 11/07/22 |
-| Creating a Roulette Game | Article | [Click here](https://openquest.xyz/quest/roulette_game_in_solana) |Openquest|  |
+| Creating a Roulette Game | Article | [Click here](https://openquest.xyz/quest/roulette_game_in_solana) |Questbook|  |
 | Building Decentralized Order Books | Video | [Click here](https://youtu.be/FyWkWrjQJpQ)  |Youtube - Solana| 11/07/22 |
 | Build Spotify Blockchain Web3 dApp with Next.js, Solana | Video | [Click here](https://youtu.be/JbZPQJpfahI) |Youtube - Clever Programmer| 05/30/22 |
-| Solana dApp Store: Chat with Solana Mobile team on anything dApps | Podcast | [Click here](https://twitter.com/solanamobile/status/1620844364804263937?cxt=HHwWgsDQhZfXsv4sAAAA)|Twitter - @solanamobile| 02/01/23 |
-| solana-nft-gallery  | Github | [Click here](https://github.com/swaroopmaddu/solana-nft-gallery) |Github - swaroopmaddu|  |
+| Solana dApp Store: Chat with Solana Mobile team on anything dApps | Podcast | [Click here](https://twitter.com/solanamobile/status/1620844364804263937?cxt=HHwWgsDQhZfXsv4sAAAA)|Twitter - Solana Mobile| 02/01/23 |
+| solana-nft-gallery  | Github | [Click here](https://github.com/swaroopmaddu/solana-nft-gallery) |Github - Swaroop Maddu|  |
 | Runtime Limitations, Building Apps in Constrained Systems | Video | [Click here](https://youtu.be/5IrfSecDPeA) |Youtube - Solana| 01/20/22 |
 | A Guide to Making UX Friendly Solana Dapps | Video | [Click here](https://youtu.be/Mz3oOx849yI)  |Youtube - Solana| 11/15/21 |
 | Why You Should Build Your DeFi Dapp Using Anchor | Video | [Click here](https://youtu.be/725ddOvfWjk)  |Youtube - Solana| 11/15/21 |
 | Bringing Smart Contracts to Their Break(ing) Point | Video | [Click here](https://youtu.be/vbkhhgeP30I)  |Youtube - Solana| 11/15/21 |
-| How to Connect Users to Your dApp with the Solana Wallet Adapter and Scaffold | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-connect-users-to-your-dapp-with-the-solana-wallet-adapter-and-scaffold) |Quicknode| 09/23/22 |
+| How to Connect Users to Your dApp with the Solana Wallet Adapter and Scaffold | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-connect-users-to-your-dapp-with-the-solana-wallet-adapter-and-scaffold) |QuickNode| 09/23/22 |
 | Build Facebook 3.0 on Blockchain with Solana  | Video | [Click here](https://youtu.be/8v5lFscLPRY) |Youtube - Clever Programmer| 04/19/22 |
 
 
