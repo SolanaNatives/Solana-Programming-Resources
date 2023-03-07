@@ -277,6 +277,39 @@ A complete collection of all the Solana programming resources available for deve
 | Diagramming Accounts | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1459631153082552320?s=21) |Twitter - pencilflip.glow|11/14/21|
 | Solana SPL Token Beginner's Guide | Article | [Click here](https://www.avanawallet.com/en/blog/solana-spl-token-beginners-guide-6c73c065/) |Avana Wallet| 10/06/22 |
 
+## System Design Proposals 
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| System Design Proposals | Article | [Click here](https://docs.solana.com/proposals) |Solana Docs|  |
+| Accepted Design Proposals | Article | [Click here](https://docs.solana.com/proposals/accepted-design-proposals) |Solana Docs|  |
+| AccountsDB Replication for RPC Services  | Article | [Click here](https://docs.solana.com/proposals/accounts-db-replication) |Solana Docs|  |
+| Bankless Leader | Article | [Click here](https://docs.solana.com/proposals/bankless-leader) |Solana Docs|  |
+| Block Confirmation | Article | [Click here](https://docs.solana.com/proposals/block-confirmation) |Solana Docs|  |
+| Optimize RocksDB Compaction for Solana BlockStore | Article | [Click here](https://docs.solana.com/proposals/blockstore-rocksdb-compaction) |Solana Docs|  |
+| Cluster Test Framework | Article | [Click here](https://docs.solana.com/proposals/cluster-test-framework )|Solana Docs|  |
+| Comprehensive Compute Fees | Article | [Click here](https://docs.solana.com/proposals/comprehensive-compute-fees) |Solana Docs|  |
+| Embedding the Move Language | Article | [Click here](https://docs.solana.com/proposals/embedding-move) |Solana Docs|  |
+| Fee Transaction Priority | Article | [Click here](https://docs.solana.com/proposals/fee_transaction_priority) |Solana Docs|  |
+| Leader Duplicate Block Slashing | Article | [Click here](https://docs.solana.com/proposals/handle-duplicate-block) |Solana Docs| |
+| Inter-chain Transaction Verification | Article | [Click here](https://docs.solana.com/proposals/interchain-transaction-verification) |Solana Docs|  |
+| Ledger Replication | Article | [Click here](https://docs.solana.com/proposals/ledger-replication-to-implement) |Solana Docs|  |
+| Program log binary data | Article | [Click here](https://docs.solana.com/proposals/log_data )|Solana Docs|  |
+| Optimistic Confirmation and Slashing | Article | [Click here](https://docs.solana.com/proposals/optimistic-confirmation-and-slashing )|Solana Docs|  |
+| Optimistic Transaction Propagation Signal | Article | [Click here](https://docs.solana.com/proposals/optimistic-transaction-propagation-signal) |Solana Docs|  |
+| Optimistic Confirmation | Article | [Click here](https://docs.solana.com/proposals/optimistic_confirmation) |Solana Docs|  |
+| Program Instruction Macro | Article | [Click here](https://docs.solana.com/proposals/program-instruction-macro) |Solana Docs|  |
+| Return data from BPF programs | Article | [Click here](https://docs.solana.com/proposals/return-data)|Solana Docs|  |
+| RiP Curl: low-latency, transaction-oriented RPC | Article | [Click here](https://docs.solana.com/proposals/rip-curl) |Solana Docs|  |
+| Rust Clients | Article | [Click here](https://docs.solana.com/proposals/rust-clients) |Solana Docs|  |
+| Simple Payment and State Verification | Article | [Click here](https://docs.solana.com/proposals/simple-payment-and-state-verification) |Solana Docs| |
+| Slashing rules | Article | [Click here](https://docs.solana.com/proposals/slashing) |Solana Docs|  |
+| Snapshot Verification | Article | [Click here](https://docs.solana.com/proposals/snapshot-verification) |Solana Docs|  |
+| Tick Verification | Article | [Click here](https://docs.solana.com/proposals/tick-verification) |Solana Docs|  |
+| Timely Vote Credits | Article | [Click here](https://docs.solana.com/proposals/timely-vote-credits )|Solana Docs|  |
+| Transactions v2 - On-chain Address Lookup Tables | Article | [Click here](https://docs.solana.com/proposals/transactions-v2 )|Solana Docs|  |
+| Validator | Article | [Click here](https://docs.solana.com/proposals/validator-proposal) |Solana Docs|  |
+| Secure Vote Signing | Article | [Click here](https://docs.solana.com/proposals/vote-signing-to-implement) |Solana Docs|  |
+
 ## Solana Economics
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
