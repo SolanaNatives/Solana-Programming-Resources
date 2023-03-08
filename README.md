@@ -1,8 +1,8 @@
 # Solana-Programming-Resources
 A complete collection of all the Solana programming resources available for developers.
 
-- [Introduction to Solana Programming](https://github.com/SolanaNatives/Solana-Programming-Resources#introduction-to-solana)
-- [Proof of History (Consensus Algorithm)](https://github.com/SolanaNatives/Solana-Programming-Resources#proof-of-history-consensus-algorithm)
+- [Introduction to Solana Programming](/SolanaNatives/Solana-Programming-Resources#introduction-to-solana)
+- [Proof of History (Consensus Algorithm)](/SolanaNatives/Solana-Programming-Resources#proof-of-history-consensus-algorithm)
 
 
 ## Introduction to Solana 
