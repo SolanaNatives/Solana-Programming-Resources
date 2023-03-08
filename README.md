@@ -4,21 +4,20 @@ A complete collection of all the Solana programming resources available for deve
 - [Introduction to Solana](#introduction-to-solana)
 - [Proof of History (Consensus Algorithm)](#proof-of-history-consensus-algorithm)
 - [Setting Up The Development Environment](#setting-up-the-development-environment)
+- [Solana CLI](#solana-cli)
 - [Program (Smart Contract) Development](#program-smart-contract-development)
+- [Hello World Program Development](#hello-world-program-development)
 - [Program Derived Addresses](#program-derived-addresses)
 - [Transactions](#transactions)
 - [Accounts](#accounts)
-- [Tokenomics](#tokenomics)
-- [Client Interaction with the Solana Network](#client-interaction-with-the-solana-network)
 - [Tokens](#tokens)
-- [Hello World Program Development](#hello-world-program-development)
 - [Clusters](#clusters)
 - [Validators](#validators)
-- [Solana CLI](#solana-cli)
+- [Solana Economics](#solana-economics)
+- [Client Interaction with the Solana Network](#client-interaction-with-the-solana-network)
 - [Serialization](#serialization)
 - [Solana Program Library](#solana-program-library)
 - [System Design Proposals](#system-design-proposals)
-- [Solana Economics](#solana-economics)
 - [Solana Program Security](#solana-program-security)
 - [Anchor](#anchor)
 - [Building dapps](#building-dapps)
@@ -56,6 +55,25 @@ A complete collection of all the Solana programming resources available for deve
 |How To Install Solana on Mac|Video|[Click here](https://youtu.be/Rf_lXvuErPA)|Youtube - MammothInteractive|04/15/22|
 |How to Install Solana on Windows |Video|[Click here](https://youtu.be/6CV5Rqpit28)|Youtube - MammothInteractive|04/15/22|
 
+## Solana CLI
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Command-line Guide | Article | [Click here](https://docs.solana.com/cli) |Solana Docs|  |
+| Command Line Wallets | Article | [Click here](https://docs.solana.com/wallet-guide/cli) |Solana Docs|  |
+| Using Solana CLI | Article | [Click here](https://docs.solana.com/cli/conventions) |Solana Docs|  |
+| CLI Usage Reference | Article | [Click here](https://docs.solana.com/cli/usage )|Solana Docs|  |
+| Command-line Interface | Article | [Click here](https://spl.solana.com/stake-pool/cli) |Solana|  |
+| Setting up a Solana CLI Wallet | Article | [Click here](https://docs.metaplex.com/guides/cli-wallet) |Metaplex| 01/25/23 |
+| Solana Automation CLI is here | Article | [Click here](https://medium.com/@snowflake_so/snowflake-cli-is-here-be75840bfbf3) |Medium - Snowflake Network|03/22/22 |
+| Introduction to Solana and the spl-token command line | Article | [Click here](https://rya-sge.github.io/access-denied/2022/08/06/solana-spl-token/)|Github - Ryan S|08/06/22|
+| How do Solana CPIs work? | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1469364878066565126?s=20) |Twitter - pencilflip.glow|12/10/21 |
+| Learn Solana CLI | Article | [Click here](https://hackmd.io/@n795113/solana-cli) |HackMD|  |
+| The Solana CLI | Video | [Click here](https://youtu.be/kPGdWm0keog) |Youtube - Procedural Nodes| 09/30/21 |
+| Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc) | Video | [Click here](https://youtu.be/pNzT3hgFbpg) |Youtube - Nick Frostbutter| 09/05/22 |
+| How to use your Phantom wallet with CLI  | Video | [Click here](https://youtu.be/9up-j1dmiGs) |Youtube - Solandy| 07/05/22 |
+| The state of program admin keys in Solana | Twitter Thread | [Click here](https://twitter.com/0xGoki/status/1471167946412019716) |Twitter - 0xGoki| 12/15/21 |
+| Solana CLI | Video | [Click here](https://youtu.be/CsKbzsN7q1o) |Youtube - Coding & Crypto| 04/09/22 |
+
 ## Program (Smart Contract) Development
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
@@ -79,6 +97,21 @@ A complete collection of all the Solana programming resources available for deve
 |Compressed NFTs: Metaplex & Solana Labs/Foundation |Podcast|[Click here](https://twitter.com/saydialect/status/1617930240906625024?cxt=HHwWgIDQiey-hfQsAAAA)|Twitter - Dialect|01/24/23|
 |SPL Governance       |Video  |[Click here](https://youtu.be/pRuy4aQsSVI) |Youtube - Solana|11/07/22|
 |Programming on Solana - Smart Contract Hello World Program in Rust  |Video  |[Click here](https://youtu.be/EVe--3dtaM4) |Youtube - Harkirat Singh|02/23/22|
+
+## Hello World Program Development 
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Hello World | Article |[Click here]( https://soldev.app/course/hello-world-program) |Soldev|  |
+| Hello World Quickstart Guide | Article |[Click here]( https://docs.solana.com/getstarted/hello-world) |Solana Docs|  |
+| Solana Development (5): Deploy your First Smart Contract | Article | [Click here](https://medium.com/@lianxiongdi/solana-development-5-deploy-your-first-smart-contract-4af94aab9a44) |Medium - Brochain| 11/05/21 |
+| An Introduction to Building on the Solana Network | Article | [Click here](https://hackernoon.com/an-introduction-to-building-on-the-solana-network)|Hackernoon|09/30/21 |
+| Hello, World in Solana with Rust & Web3.js | Article | [Click here](https://topherpedersen.blog/2022/01/14/hello-world-in-solana-with-rust-web3-js/) |Topherpedersen Blog|01/14/22|
+| Programming on Solana Hello World Program in Rust | Video | [Click here](https://youtu.be/EVe--3dtaM4) |Youtube - Harkirat Singh| 02/23/22 |
+| Solana Smart Contract Development: Hello World Tutorial  Rust and Typescript walkthrough | Video | [Click here](https://youtu.be/P22z9n1np9A) |Youtube - Josh's DevBox| 02/04/22 |
+| Hello World | Video |[Click here]( https://youtu.be/uRZP-II6Nfc) |Youtube - Solana|  09/01/22 |
+| Build and Deploy a Solana Smart Contract (Hello World) using Rust | Video |[Click here]( https://youtu.be/Mh_tvdkhJjA) |Youtube - David Razmadze| 04/18/22 |
+| Notes from Hello World Deep Dive | Twitter Thread | [Click here](https://twitter.com/C_Ogoo/status/1453025611912462337?s=20) |Twitter - C.OG| 10/26/21|
+| Hello World Increment Program | Video | [Click here](https://youtu.be/I_9URizSO80) |Youtube - NpmRunProgram| 06/01/22 |
 
 ## Program Derived Addresses
 |Title|Type|Link|Source|Date|
@@ -108,7 +141,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Transactions in Depth | Article | [Click here](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2) |Medium - Alex Miller|09/11/21 |
 | How to Get Transaction Logs on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-get-transaction-logs-on-solana)|QuickNode|10/27/22 |
 | Transaction confirmation | Article | [Click here](https://jstarry.notion.site/Transaction-confirmation-d5b8f4e09b9c4a70a1f263f82307d7ce)|Jstarry Notion|05/26/22|
-| Structure of Solana's blockspace | Twitter Thread | [Click here](https://twitter.com/7LayerMagik/status/1615569374647287808)|Twitter - 7Layer|01/18/23 |
+| Structure of Solana's blockspace | Twitter Thread | [Click here](https://twitter.com/7LayerMagik/status/1615569374647287808)|Twitter - 7Layer|01/18/23|
 | Solana transaction- Lumina Labs | Twitter Thread | [Click here](https://twitter.com/wireless_anon/status/1612930129180647424) |Twitter - wireless anon|01/11/23 |
 | How to Use Versioned Transactions on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-versioned-transactions-on-solana)|QuickNode| 10/18/22 |
 
@@ -135,31 +168,6 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Bytes - Accounts | Video |[Click here](https://youtu.be/0_j0rQ9Bvks) |Youtube - Solana| 09/09/22 |
 | How to Freeze Token Accounts | Video | [Click here](https://youtu.be/ofJo9NQiCBU) |Youtube - Solandy| 03/02/22 |
 
-## Tokenomics
-|Title|Type|Link|Source|Date|
-|:---                |:---        |:---|:---|:---|
-| Solana Tokenomics Explained | Article |[Click here]( https://academy.shrimpy.io/post/solana-tokenomics-explained) |Shrimpy|10/05/22 |
-| Solana (SOL) Tokenomics | Article | [Click here](https://www.coingecko.com/en/coins/solana/tokenomics) |CoinGecko| 07/18/22 |
-| Tokenomics | Article | [Click here](https://docs.solanium.io/tokenomics) |Solanium|  |
-
-## Client Interaction with the Solana Network
-|Title|Type|Link|Source|Date|
-|:---                |:---        |:---|:---|:---|
-| Read Data From The Solana Network | Article |[Click here]( https://soldev.app/course/intro-to-reading-data) |Soldev|  |
-| Write Data To The Solana Network | Article | [Click here](https://soldev.app/course/intro-to-writing-data) |Soldev|  |
-| Interact With Wallets | Article | [Click here](https://soldev.app/course/interact-with-wallets) |Soldev|  |
-| Serialize Custom Instruction Data | Article | [Click here](https://soldev.app/course/serialize-instruction-data) |Soldev|  |
-| Deserialize Custom Account Data | Article | [Click here](https://soldev.app/course/deserialize-custom-data) |Soldev|  |
-| Page, Order, and Filter Custom Account Data | Article | [Click here](https://soldev.app/course/paging-ordering-filtering-data) |Soldev|  |
-| JSON RPC API | Article | [Click here](https://docs.solana.com/developing/clients/jsonrpc-api) |Solana Docs|  |
-| Web3 JavaScript API | Article | [Click here](https://docs.solana.com/developing/clients/javascript-api) |Solana Docs|  |
-| Web3 API Reference | Article | [Click here](https://docs.solana.com/developing/clients/javascript-reference) |Solana Docs|  |
-| Rust API | Article | [Click here](https://docs.solana.com/developing/clients/rust-api) |Solana Docs|  |
-| How To Read Data From The Network | Video | [Click here](https://youtu.be/HavGDGUTmgs) |Youtube - Solandy| 08/17/22 |
-| How To Write Data To The Network  | Video | [Click here](https://youtu.be/6BsU4_BppvI) |Youtube - Solandy| 08/28/22 |
-| Reading data from the blockchain  | Article | [Click here](https://buildspace.so/p/solana-core/lessons/reading-data-from-the-blockchain) |Buildspace|  |
-| Integrating with Solana wallets | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/integrating-with-solana-wallets)|Lorisleiva|02/10/22 |
-
 ## Tokens
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
@@ -180,21 +188,6 @@ A complete collection of all the Solana programming resources available for deve
 | SOLANA - Technical Guide / Create Your Own Token / Using the Wallet | Video | [Click here](https://youtu.be/lzCNn6OFJGk) |Youtube -Crypton| 07/15/21 |
 | Create Your Own Token and NFT | Video | [Click here](https://youtu.be/L4WWQzOBNIg) |Youtube - ZappyCode| 05/25/21 |
 | Create your own token | Video | [Click here](https://youtu.be/rd8aGy-UxvY) |Youtube - Harkirat Singh| 02/23/22 |
-
-## Hello World Program Development 
-|Title|Type|Link|Source|Date|
-|:---                |:---        |:---|:---|:---|
-| Hello World | Article |[Click here]( https://soldev.app/course/hello-world-program) |Soldev|  |
-| Hello World Quickstart Guide | Article |[Click here]( https://docs.solana.com/getstarted/hello-world) |Solana Docs|  |
-| Solana Development (5): Deploy your First Smart Contract | Article | [Click here](https://medium.com/@lianxiongdi/solana-development-5-deploy-your-first-smart-contract-4af94aab9a44) |Medium - Brochain| 11/05/21 |
-| An Introduction to Building on the Solana Network | Article | [Click here](https://hackernoon.com/an-introduction-to-building-on-the-solana-network)|Hackernoon|09/30/21 |
-| Hello, World in Solana with Rust & Web3.js | Article | [Click here](https://topherpedersen.blog/2022/01/14/hello-world-in-solana-with-rust-web3-js/) |Topherpedersen Blog|01/14/22|
-| Programming on Solana Hello World Program in Rust | Video | [Click here](https://youtu.be/EVe--3dtaM4) |Youtube - Harkirat Singh| 02/23/22 |
-| Solana Smart Contract Development: Hello World Tutorial  Rust and Typescript walkthrough | Video | [Click here](https://youtu.be/P22z9n1np9A) |Youtube - Josh's DevBox| 02/04/22 |
-| Hello World | Video |[Click here]( https://youtu.be/uRZP-II6Nfc) |Youtube - Solana|  09/01/22 |
-| Build and Deploy a Solana Smart Contract (Hello World) using Rust | Video |[Click here]( https://youtu.be/Mh_tvdkhJjA) |Youtube - David Razmadze| 04/18/22 |
-| Notes from Hello World Deep Dive | Twitter Thread | [Click here](https://twitter.com/C_Ogoo/status/1453025611912462337?s=20) |Twitter - C.OG| 10/26/21 |
-| Hello World Increment Program | Video | [Click here](https://youtu.be/I_9URizSO80) |Youtube - NpmRunProgram| 06/01/22 |
 
 ## Clusters
 |Title|Type|Link|Source|Date|
@@ -238,24 +231,39 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Staking how to pick the best Validator. Everstake vs small validators. | Video | [Click here](https://youtu.be/Uoe2mqS3KFc) |Youtube - Sol Play| 01/18/22 |
 | How We Built Novel Staking Infrastructure For a Solana Validator | Article | [Click here](https://pulse.moonfire.com/how-we-built-novel-staking-infrastructure-for-a-solana-validator/) |Moonfire| 08/30/22 |
 
-## Solana CLI
+## Solana Economics
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
-| Command-line Guide | Article | [Click here](https://docs.solana.com/cli) |Solana Docs|  |
-| Command Line Wallets | Article | [Click here](https://docs.solana.com/wallet-guide/cli) |Solana Docs|  |
-| Using Solana CLI | Article | [Click here](https://docs.solana.com/cli/conventions) |Solana Docs|  |
-| CLI Usage Reference | Article | [Click here](https://docs.solana.com/cli/usage )|Solana Docs|  |
-| Command-line Interface | Article | [Click here](https://spl.solana.com/stake-pool/cli) |Solana|  |
-| Setting up a Solana CLI Wallet | Article | [Click here](https://docs.metaplex.com/guides/cli-wallet) |Metaplex| 01/25/23 |
-| Solana Automation CLI is here | Article | [Click here](https://medium.com/@snowflake_so/snowflake-cli-is-here-be75840bfbf3) |Medium - Snowflake Network|03/22/22 |
-| Introduction to Solana and the spl-token command line | Article | [Click here](https://rya-sge.github.io/access-denied/2022/08/06/solana-spl-token/)|Github - Ryan S|08/06/22|
-| How do Solana CPIs work? | Twitter Thread | [Click here](https://twitter.com/pencilflip/status/1469364878066565126?s=20) |Twitter - pencilflip.glow|12/10/21 |
-| Learn Solana CLI | Article | [Click here](https://hackmd.io/@n795113/solana-cli) |HackMD|  |
-| The Solana CLI | Video | [Click here](https://youtu.be/kPGdWm0keog) |Youtube - Procedural Nodes| 09/30/21 |
-| Solana Tutorial - Learn the Solana CLI (clusters, wallets, deploy, etc) | Video | [Click here](https://youtu.be/pNzT3hgFbpg) |Youtube - Nick Frostbutter| 09/05/22 |
-| How to use your Phantom wallet with CLI  | Video | [Click here](https://youtu.be/9up-j1dmiGs) |Youtube - Solandy| 07/05/22 |
-| The state of program admin keys in Solana | Twitter Thread | [Click here](https://twitter.com/0xGoki/status/1471167946412019716) |Twitter - 0xGoki| 12/15/21 |
-| Solana CLI | Video | [Click here](https://youtu.be/CsKbzsN7q1o) |Youtube - Coding & Crypto| 04/09/22 |
+| Solana Economics Overview | Article | [Click here](https://docs.solana.com/economics_overview) |Solana Docs|  |
+| Terminology for Economics | Article | [Click here](https://docs.solana.com/inflation/terminology) |Solana Docs|  |
+| Solana's Proposed Inflation Schedule | Article | [Click here](https://docs.solana.com/inflation/inflation_schedule) |Solana Docs|  |
+| Adjusted Staking Yield | Article | [Click here](https://docs.solana.com/inflation/adjusted_staking_yield) |Solana Docs|  |
+| Transaction Fees | Article | [Click here](https://docs.solana.com/transaction_fees) |Solana Docs|  |
+| Storage Rent Economics | Article | [Click here](https://docs.solana.com/storage_rent_economics) |Solana Docs|  |
+| Validation-client Economics | Article | [Click here](https://docs.solana.com/implemented-proposals/ed_overview/ed_validation_client_economics/ed_vce_overview)|Solana Docs|  |
+| Solana Economics | Article | [Click here](https://medium.com/figment/solana-economics-d96504b36007) |Medium - Clayton Menzel| 02/04/21 |
+| Solana Validator Economics | Article | [Click here](https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6) |Medium - Thalita| 08/23/22 |
+| Solana Tokenomics Explained | Article |[Click here]( https://academy.shrimpy.io/post/solana-tokenomics-explained) |Shrimpy|10/05/22 |
+| Solana (SOL) Tokenomics | Article | [Click here](https://www.coingecko.com/en/coins/solana/tokenomics) |CoinGecko| 07/18/22 |
+| Tokenomics | Article | [Click here](https://docs.solanium.io/tokenomics) |Solanium|  |
+
+## Client Interaction with the Solana Network
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+| Read Data From The Solana Network | Article |[Click here]( https://soldev.app/course/intro-to-reading-data) |Soldev|  |
+| Write Data To The Solana Network | Article | [Click here](https://soldev.app/course/intro-to-writing-data) |Soldev|  |
+| Interact With Wallets | Article | [Click here](https://soldev.app/course/interact-with-wallets) |Soldev|  |
+| Serialize Custom Instruction Data | Article | [Click here](https://soldev.app/course/serialize-instruction-data) |Soldev|  |
+| Deserialize Custom Account Data | Article | [Click here](https://soldev.app/course/deserialize-custom-data) |Soldev|  |
+| Page, Order, and Filter Custom Account Data | Article | [Click here](https://soldev.app/course/paging-ordering-filtering-data) |Soldev|  |
+| JSON RPC API | Article | [Click here](https://docs.solana.com/developing/clients/jsonrpc-api) |Solana Docs|  |
+| Web3 JavaScript API | Article | [Click here](https://docs.solana.com/developing/clients/javascript-api) |Solana Docs|  |
+| Web3 API Reference | Article | [Click here](https://docs.solana.com/developing/clients/javascript-reference) |Solana Docs|  |
+| Rust API | Article | [Click here](https://docs.solana.com/developing/clients/rust-api) |Solana Docs|  |
+| How To Read Data From The Network | Video | [Click here](https://youtu.be/HavGDGUTmgs) |Youtube - Solandy| 08/17/22 |
+| How To Write Data To The Network  | Video | [Click here](https://youtu.be/6BsU4_BppvI) |Youtube - Solandy| 08/28/22 |
+| Reading data from the blockchain  | Article | [Click here](https://buildspace.so/p/solana-core/lessons/reading-data-from-the-blockchain) |Buildspace| |
+| Integrating with Solana wallets | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/integrating-with-solana-wallets)|Lorisleiva|02/10/22 |
 
 ## Serialization
 |Title|Type|Link|Source|Date|
@@ -334,19 +342,6 @@ A complete collection of all the Solana programming resources available for deve
 | Transactions v2 - On-chain Address Lookup Tables | Article | [Click here](https://docs.solana.com/proposals/transactions-v2 )|Solana Docs|  |
 | Validator | Article | [Click here](https://docs.solana.com/proposals/validator-proposal) |Solana Docs|  |
 | Secure Vote Signing | Article | [Click here](https://docs.solana.com/proposals/vote-signing-to-implement) |Solana Docs|  |
-
-## Solana Economics
-|Title|Type|Link|Source|Date|
-|:---                |:---        |:---|:---|:---|
-| Solana Economics Overview | Article | [Click here](https://docs.solana.com/economics_overview) |Solana Docs|  |
-| Terminology for Economics | Article | [Click here](https://docs.solana.com/inflation/terminology) |Solana Docs|  |
-| Solana's Proposed Inflation Schedule | Article | [Click here](https://docs.solana.com/inflation/inflation_schedule) |Solana Docs|  |
-| Adjusted Staking Yield | Article | [Click here](https://docs.solana.com/inflation/adjusted_staking_yield) |Solana Docs|  |
-| Transaction Fees | Article | [Click here](https://docs.solana.com/transaction_fees) |Solana Docs|  |
-| Storage Rent Economics | Article | [Click here](https://docs.solana.com/storage_rent_economics) |Solana Docs|  |
-| Validation-client Economics | Article | [Click here](https://docs.solana.com/implemented-proposals/ed_overview/ed_validation_client_economics/ed_vce_overview)|Solana Docs|  |
-| Solana Economics | Article | [Click here](https://medium.com/figment/solana-economics-d96504b36007) |Medium - Clayton Menzel| 02/04/21 |
-| Solana Validator Economics | Article | [Click here](https://medium.com/chorus-one/exploring-validator-economics-on-solana-cb1498a3aef6) |Medium - Thalita| 08/23/22 |
 
 ## Solana Program Security
 |Title|Type|Link|Source|Date|
