@@ -1,9 +1,30 @@
 # Solana-Programming-Resources
 A complete collection of all the Solana programming resources available for developers.
 
-- [Introduction to Solana Programming](/SolanaNatives/Solana-Programming-Resources#introduction-to-solana)
-- [Proof of History (Consensus Algorithm)](/SolanaNatives/Solana-Programming-Resources#proof-of-history-consensus-algorithm)
-
+- [Introduction to Solana](#introduction-to-solana)
+- [Proof of History (Consensus Algorithm)](#proof-of-history-consensus-algorithm)
+- [Setting Up The Development Environment](#setting-up-the-development-environment)
+- [Program (Smart Contract) Development](#program-smart-contract-development)
+- [Program Derived Addresses](#program-derived-addresses)
+- [Transactions](#transactions)
+- [Accounts](#accounts)
+- [Tokenomics](#tokenomics)
+- [Client Interaction with the Solana Network](#client-interaction-with-the-solana-network)
+- [Tokens](#tokens)
+- [Hello World Program Development](#hello-world-program-development)
+- [Clusters](#clusters)
+- [Validators](#validators)
+- [Solana CLI](#solana-cli)
+- [Serialization](#serialization)
+- [Solana Program Library](#solana-program-library)
+- [System Design Proposals](#system-design-proposals)
+- [Solana Economics](#solana-economics)
+- [Solana Program Security](#solana-program-security)
+- [Anchor](#anchor)
+- [Building dapps](#building-dapps)
+- [Metaplex](#metaplex)
+- [Seahorse](#seahorse)
+- [Solana Playground (Browser-based IDE)](#solana-playground-browser-based-ide)
 
 ## Introduction to Solana 
 |Title|Type|Link|Source|Date|
