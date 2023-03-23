@@ -1,6 +1,7 @@
 # Solana-Programming-Resources
 A complete collection of all the Solana programming resources available for developers.
 
+- [Intro Level Rust](#intro-level-rust)
 - [Introduction to Solana](#introduction-to-solana)
 - [Proof of History (Consensus Algorithm)](#proof-of-history-consensus-algorithm)
 - [Setting Up The Development Environment](#setting-up-the-development-environment)
@@ -24,6 +25,15 @@ A complete collection of all the Solana programming resources available for deve
 - [Metaplex](#metaplex)
 - [Seahorse](#seahorse)
 - [Solana Playground (Browser-based IDE)](#solana-playground-browser-based-ide)
+
+
+## Intro Level Rust
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+|The Rust Book|Book|[Click here](https://doc.rust-lang.org/book/)|Rust Community||
+|The Rust Lang Book Playlist |Video|[Click here](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)| Youtube - Let's Get Rusty| |
+|Rust by Example| Article|[Click here](https://doc.rust-lang.org/rust-by-example/index.html)|Github - The Rust Programming Language| |
+|Rust Crash Course Tutorial for Solana| Video|[Click here](https://youtu.be/-AAtfPHEMbA)|Youtube - Josh's DevBox|01/03/2022 |
 
 ## Introduction to Solana 
 |Title|Type|Link|Source|Date|
