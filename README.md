@@ -276,7 +276,7 @@ A complete collection of all the Solana programming resources available for deve
 | How To Write Data To The Network  | Video | [Click here](https://youtu.be/6BsU4_BppvI) |Youtube - Solandy| 08/28/22 |
 | Reading data from the blockchain  | Article | [Click here](https://buildspace.so/p/solana-core/lessons/reading-data-from-the-blockchain) |Buildspace| |
 | Integrating with Solana wallets | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/integrating-with-solana-wallets)|Lorisleiva|02/10/22 |
-| Solana Python Tutorial: Querying and analyzing data from Raydium | Article | [Click here](https://chainstack.com/solana-python-tutorial-querying-and-analyzing-data-from-raydium/)| Chainstack | 08/16/22 |
+| How to run a Solana RPC node | Article | [Click here](https://chainstack.com/how-to-run-a-solana-node/) | Chainstack | 03/04/22 |
 
 ## Serialization
 |Title|Type|Link|Source|Date|
@@ -471,7 +471,6 @@ A complete collection of all the Solana programming resources available for deve
 | Bringing Smart Contracts to Their Break(ing) Point | Video | [Click here](https://youtu.be/vbkhhgeP30I)  |Youtube - Solana| 11/15/21 |
 | How to Connect Users to Your dApp with the Solana Wallet Adapter and Scaffold | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-connect-users-to-your-dapp-with-the-solana-wallet-adapter-and-scaffold) |QuickNode| 09/23/22 |
 | Build Facebook 3.0 on Blockchain with Solana  | Video | [Click here](https://youtu.be/8v5lFscLPRY) |Youtube - Clever Programmer| 04/19/22 |
-| How to run a Solana RPC node | Article | [Click here](https://chainstack.com/how-to-run-a-solana-node/) | Chainstack | 03/04/22 |
 
 ## Metaplex
 |Title|Type|Link|Source|Date|
