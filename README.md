@@ -256,6 +256,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Tokenomics Explained | Article |[Click here]( https://academy.shrimpy.io/post/solana-tokenomics-explained) |Shrimpy|10/05/22 |
 | Solana (SOL) Tokenomics | Article | [Click here](https://www.coingecko.com/en/coins/solana/tokenomics) |CoinGecko| 07/18/22 |
 | Tokenomics | Article | [Click here](https://docs.solanium.io/tokenomics) |Solanium|  |
+| Solana Fee markets | Article | [Click here](https://www.wordcelclub.com/madhavg.sol/solana-fee-markets)
 
 ## Client Interaction with the Solana Network
 |Title|Type|Link|Source|Date|
