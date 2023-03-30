@@ -154,6 +154,7 @@ A complete collection of all the Solana programming resources available for deve
 | Structure of Solana's blockspace | Twitter Thread | [Click here](https://twitter.com/7LayerMagik/status/1615569374647287808)|Twitter - 7Layer|01/18/23|
 | Solana transaction- Lumina Labs | Twitter Thread | [Click here](https://twitter.com/wireless_anon/status/1612930129180647424) |Twitter - wireless anon|01/11/23 |
 | How to Use Versioned Transactions on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-versioned-transactions-on-solana)|QuickNode| 10/18/22 |
+| MEV on Solana | Article | [Click here](https://chainstack.com/what-is-mev-and-how-does-solana-solves-its-mev-issues/)| Chainstack | 09/16/22 |
 
 ## Accounts
 |Title|Type|Link|Source|Date|
@@ -177,6 +178,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Bytes - Custom Account Data | Video | [Click here](https://youtu.be/SCS6jt8sye0) |Youtube -Solana| 09/09/22 |
 | Solana Bytes - Accounts | Video |[Click here](https://youtu.be/0_j0rQ9Bvks) |Youtube - Solana| 09/09/22 |
 | How to Freeze Token Accounts | Video | [Click here](https://youtu.be/ofJo9NQiCBU) |Youtube - Solandy| 03/02/22 |
+| How does Solana generate public and private keys? | Article | [Click here](https://chainstack.com/how-do-ethereum-and-solana-generate-public-and-private-keys/) |Chainstack| 11/22/22 |
 
 ## Tokens
 |Title|Type|Link|Source|Date|
@@ -275,6 +277,7 @@ A complete collection of all the Solana programming resources available for deve
 | How To Write Data To The Network  | Video | [Click here](https://youtu.be/6BsU4_BppvI) |Youtube - Solandy| 08/28/22 |
 | Reading data from the blockchain  | Article | [Click here](https://buildspace.so/p/solana-core/lessons/reading-data-from-the-blockchain) |Buildspace| |
 | Integrating with Solana wallets | Article | [Click here](https://lorisleiva.com/create-a-solana-dapp-from-scratch/integrating-with-solana-wallets)|Lorisleiva|02/10/22 |
+| How to run a Solana RPC node | Article | [Click here](https://chainstack.com/how-to-run-a-solana-node/) | Chainstack | 03/04/22 |
 
 ## Serialization
 |Title|Type|Link|Source|Date|
@@ -495,6 +498,7 @@ A complete collection of all the Solana programming resources available for deve
 | How To Mint & Sell Solana NFT's - Metaplex Tutorial | Video | [Click here](https://youtu.be/_36JcJRAHHI) |Youtube - James Bachini| 09/07/21 |
 | How to Launch Solana NFT Collection using Metaplex Candy Machine v2 | Video | [Click here](https://youtu.be/_W0OH3db4gM )|Youtube - KeyStrokes|05/03/22|
 | How to build a Solana NFT Collection (Metaplex, Alchemy, Hashlips) | Video | [Click here](https://youtu.be/dpZ98NUg_W0) |Youtube - Alchemy| 12/01/22 |
+| Metaplex Solana NFT metadata - How to get NFTs metadata? | Article | [Click here](https://chainstack.com/the-mystery-of-solana-metaplex-nft-metadata-encoding/) | Chainstack | 06/24/22 |
 
 ## Seahorse
 |Title|Type|Link|Source|Date|
