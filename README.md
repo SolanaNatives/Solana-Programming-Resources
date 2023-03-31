@@ -2,6 +2,7 @@
 A complete collection of all the Solana programming resources available for developers.
 
 - [Intro Level Rust](#intro-level-rust)
+- [Intro Level Solana](#intro-level-solana)
 - [Introduction to Solana](#introduction-to-solana)
 - [Proof of History (Consensus Algorithm)](#proof-of-history-consensus-algorithm)
 - [Setting Up The Development Environment](#setting-up-the-development-environment)
@@ -34,6 +35,19 @@ A complete collection of all the Solana programming resources available for deve
 |The Rust Lang Book Playlist |Video|[Click here](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)| Youtube - Let's Get Rusty| |
 |Rust by Example| Article|[Click here](https://doc.rust-lang.org/rust-by-example/index.html)|Github - The Rust Programming Language| |
 |Rust Crash Course Tutorial for Solana| Video|[Click here](https://youtu.be/-AAtfPHEMbA)|Youtube - Josh's DevBox|01/03/2022 |
+
+## Intro Level Solana
+|Title|Type|Link|Source|Date|
+|:---                |:---        |:---|:---|:---|
+|Solana Docs|Article|[Click here](https://docs.solana.com/developers)|Solana Docs by Solana Foundation| |
+|Solana Bootcamp Chicago|Video|[Click here](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0)|Youtube - Solana| |
+|Solana Development Tutorial |Video|[Click here](https://www.youtube.com/playlist?list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)|Youtube - Josh's DevBox||
+|Full Solana and Rust programming course for beginners|Course|[Click here](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners)|IdeaSoft Career Booster||
+|Solana Blockchain Development|Course|[Click here](https://adept.at/forked/solana-blockchain-development)|Adept||
+|Solana Practicum|Course|[Click here](https://www.patika.dev/bootcamp/solana-practicum)|Patika Dev||
+|Intro to Solana|Course|[Click here](https://www.soldev.app/course)|Soldev||
+|Solana|Course|[Click here](https://learn.figment.io/protocols/solana)|Figment Learn||
+|Solana Beginner Crash Course Workshop|Video|[Click here](https://youtu.be/FQYmWWw5l04)|Youtube - Joseph Caulfield|01/12/2023|
 
 ## Introduction to Solana 
 |Title|Type|Link|Source|Date|
