@@ -169,6 +169,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana transaction- Lumina Labs | Twitter Thread | [Click here](https://twitter.com/wireless_anon/status/1612930129180647424) |Twitter - wireless anon|01/11/23 |
 | How to Use Versioned Transactions on Solana | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-use-versioned-transactions-on-solana)|QuickNode| 10/18/22 |
 | MEV on Solana | Article | [Click here](https://chainstack.com/what-is-mev-and-how-does-solana-solves-its-mev-issues/)| Chainstack | 09/16/22 |
+|Solana Transactions with Better Call Sol|Video|[Click here](https://youtu.be/z4TzkuKLWAA)|Youtube - Lab Eleven|03/08/23|
 
 ## Accounts
 |Title|Type|Link|Source|Date|
