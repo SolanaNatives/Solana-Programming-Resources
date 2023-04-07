@@ -197,6 +197,7 @@ A complete collection of all the Solana programming resources available for deve
 | Solana Bytes - Accounts | Video |[Click here](https://youtu.be/0_j0rQ9Bvks) |Youtube - Solana| 09/09/22 |
 | How to Freeze Token Accounts | Video | [Click here](https://youtu.be/ofJo9NQiCBU) |Youtube - Solandy| 03/02/22 |
 | How does Solana generate public and private keys? | Article | [Click here](https://chainstack.com/how-do-ethereum-and-solana-generate-public-and-private-keys/) |Chainstack| 11/22/22 |
+| Managing large accounts on Solana|Video|[Click here](https://youtu.be/zs_yU0IuJxc)|Youtube - Solana |03/31/2023|
 
 ## Tokens
 |Title|Type|Link|Source|Date|
@@ -220,6 +221,8 @@ A complete collection of all the Solana programming resources available for deve
 | Create your own token | Video | [Click here](https://youtu.be/rd8aGy-UxvY) |Youtube - Harkirat Singh| 02/23/22 |
 | What exactly is an NFT?|Article|[Click here](https://solana.com/learn/nfts)|Solana| |
 | Solana’s Token Program, Explained|Article|[Click here](https://pencilflip.medium.com/solanas-token-program-explained-de0ddce29714)|Medium - Matt Lim|10/29/2021|
+| Minting Compressed NFTs|Video |[Click here](https://youtu.be/A_U1Nd41vPc)|Youtube - Solana |04/03/2023|
+| Transferring Compressed NFTs|Video|[Click here](https://youtu.be/FOO5eT7K_e4)|Youtube - Solana|04/03/2023|
 
 ## Clusters
 |Title|Type|Link|Source|Date|
