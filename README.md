@@ -48,6 +48,9 @@ A complete collection of all the Solana programming resources available for deve
 |Intro to Solana|Course|[Click here](https://www.soldev.app/course)|Soldev||
 |Solana|Course|[Click here](https://learn.figment.io/protocols/solana)|Figment Learn||
 |Solana Beginner Crash Course Workshop|Video|[Click here](https://youtu.be/FQYmWWw5l04)|Youtube - Joseph Caulfield|01/12/2023|
+|Solana 101 Beginner Presentation Workshop|Video|[Click here](https://youtu.be/56Erql9229E)| Youtube - Joseph Caulfield|03/15/2023|
+|Solana Dev Course|Video|[Click here](https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt)| Youtube - Solandy| |
+
 
 ## Introduction to Solana 
 |Title|Type|Link|Source|Date|
@@ -215,6 +218,8 @@ A complete collection of all the Solana programming resources available for deve
 | SOLANA - Technical Guide / Create Your Own Token / Using the Wallet | Video | [Click here](https://youtu.be/lzCNn6OFJGk) |Youtube -Crypton| 07/15/21 |
 | Create Your Own Token and NFT | Video | [Click here](https://youtu.be/L4WWQzOBNIg) |Youtube - ZappyCode| 05/25/21 |
 | Create your own token | Video | [Click here](https://youtu.be/rd8aGy-UxvY) |Youtube - Harkirat Singh| 02/23/22 |
+| What exactly is an NFT?|Article|[Click here](https://solana.com/learn/nfts)|Solana| |
+| Solana’s Token Program, Explained|Article|[Click here](https://pencilflip.medium.com/solanas-token-program-explained-de0ddce29714)|Medium - Matt Lim|10/29/2021|
 
 ## Clusters
 |Title|Type|Link|Source|Date|
