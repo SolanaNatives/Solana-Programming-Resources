@@ -11,7 +11,7 @@ A complete collection of all the Solana programming resources available for deve
 - [Hello World Program Development](#hello-world-program-development)
 - [Program Derived Addresses](#program-derived-addresses)
 - [Transactions](#transactions)
-- [Accounts](#accounts)
+- [Accounts](#accounts) 
 - [Tokens](#tokens)
 - [Clusters](#clusters)
 - [Validators](#validators)
@@ -39,15 +39,15 @@ A complete collection of all the Solana programming resources available for deve
 ## Intro Level Solana
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
-|Solana Docs|Article|[Click here](https://docs.solana.com/developers)|Solana Docs by Solana Foundation| |
-|Solana Cookbook| Article|[Click here](https://solanacookbook.com/#contributing)|Solana Developers| |
+|Solana Docs|Article|[Click here](https://docs.solana.com/developers)|Solana Docs by Solana Foundation|  |
+|Solana Cookbook| Article|[Click here](https://solanacookbook.com/#contributing)|Solana Developers|  |
 |Solana Bootcamp Chicago|Video|[Click here](https://www.youtube.com/playlist?list=PLilwLeBwGuK7Z2dXft_pmLZ675fuPgkA0)|Youtube - Solana| |
 |Solana Development Tutorial |Video|[Click here](https://www.youtube.com/playlist?list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)|Youtube - Josh's DevBox||
 |Full Solana and Rust programming course for beginners|Course|[Click here](https://careerbooster.io/courses/full-solana-and-rust-programming-course-for-beginners)|IdeaSoft Career Booster||
 |Solana Blockchain Development|Course|[Click here](https://adept.at/forked/solana-blockchain-development)|Adept||
 |Solana Practicum|Course|[Click here](https://www.patika.dev/bootcamp/solana-practicum)|Patika Dev||
-|Intro to Solana|Course|[Click here](https://www.soldev.app/course)|Soldev||
-|Solana|Course|[Click here](https://learn.figment.io/protocols/solana)|Figment Learn||
+|Intro to Solana|Course|[Click here](https://www.soldev.app/course)|Soldev| |
+|Solana|Course|[Click here](https://learn.figment.io/protocols/solana)|Figment Learn| |
 |Solana Beginner Crash Course Workshop|Video|[Click here](https://youtu.be/FQYmWWw5l04)|Youtube - Joseph Caulfield|01/12/2023|
 |Solana 101 Beginner Presentation Workshop|Video|[Click here](https://youtu.be/56Erql9229E)| Youtube - Joseph Caulfield|03/15/2023|
 |Solana Dev Course|Video|[Click here](https://www.youtube.com/playlist?list=PLmAMfj0qP2wwfnuRJQge2ss4sJxnhIqyt)| Youtube - Solandy| |
