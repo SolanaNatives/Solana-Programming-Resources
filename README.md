@@ -57,6 +57,7 @@ A complete collection of all the Solana programming resources available for deve
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
 |Introduction|Article|[Click here](https://docs.solana.com/introduction)|Solana Docs||
+|Programming on Solana - An Introduction|Article|[Click here](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)|Paulx|14/1/21|
 |An Introduction to Solana|Article|[Click here](https://grayscale.com/learn/an-introduction-to-solana/)|Grayscale||
 |Solana Programming – The Ultimate Guide to Solana Development|Article|[Click here](https://moralis.io/solana-programming-the-ultimate-guide-to-solana-development)|Moralis|07/14/22|
 |Programming on Solana - Introduction to Ethereum and Solana|Video|[Click here](https://youtu.be/IQryb0J2QSU)|Youtube - Harkirat Singh|02/23/22|
