@@ -107,6 +107,7 @@ A complete collection of all the Solana programming resources available for deve
 |:---                |:---        |:---|:---|:---|
 |How to Write a Solana Smart Contract?|Article|[Click here](https://moralis.io/how-to-write-a-solana-smart-contract/#:~:text=Solana%20is%20an%20open-source,than%2C%20for%20example%2C%20Ethereum)|Moralis|10/14/22|
 |How to Build and Deploy a Solana Smart Contract?|Article|[Click here](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)|Chainlink|09/17/21|
+|Programming on Solana - An Introduction|Article|[Click here](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)|Paulx|1/14/21|
 |How to build & deploy smart contracts on solana? |Article|[Click here](https://www.leewayhertz.com/build-solana-smart-contracts/) |LeewayHertz|        |
 |Solana Smart Contract Development: A Detailed Guide|Article|[Click here](https://www.antiersolutions.com/solana-smart-contract-development-a-detailed-guide/)|Antier|     |
 |How to build & deploy smart contracts on solana? |Article|[Click here](https://rejolut.com/blog/how-to-build-deploy-smart-contracts-on-solana/)|Rejolut||
