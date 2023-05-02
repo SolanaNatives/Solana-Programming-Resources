@@ -498,33 +498,6 @@ A complete collection of all the Solana programming resources available for deve
 | How to Connect Users to Your dApp with the Solana Wallet Adapter and Scaffold | Article | [Click here](https://www.quicknode.com/guides/solana-development/how-to-connect-users-to-your-dapp-with-the-solana-wallet-adapter-and-scaffold) |QuickNode| 09/23/22 |
 | Build Facebook 3.0 on Blockchain with Solana  | Video | [Click here](https://youtu.be/8v5lFscLPRY) |Youtube - Clever Programmer| 04/19/22 |
 
-## Metaplex
-|Title|Type|Link|Source|Date|
-|:---                |:---        |:---|:---|:---|
-| Introduction | Article | [Click here](https://docs.metaplex.com) |Metaplex Docs||
-| Token Metadata  | Article | [Click here](https://docs.metaplex.com/programs/token-metadata/) |Metaplex Docs|  |
-| Candy Machine | Article | [Click here](https://docs.metaplex.com/programs/candy-machine/) |Metaplex Docs|  |
-| Auction House | Article | [Click here](https://docs.metaplex.com/programs/auction-house/ )|Metaplex Docs|  |
-| Compression | Article | [Click here](https://docs.metaplex.com/programs/compression/) |Metaplex Docs|  |
-| Fusion | Article | [Click here](https://docs.metaplex.com/programs/fusion/) |Metaplex Docs|  |
-| Hydra: Fanout Wallet | Article | [Click here](https://docs.metaplex.com/programs/hydra/) |Metaplex Docs|  |
-| Fixed-price-sale | Article | [Click here](https://docs.metaplex.com/programs/fixed-price-sale/) |Metaplex Docs|  |
-| NFT Packs | Article | [Click here](https://docs.metaplex.com/programs/nft-packs/) |Metaplex Docs|  |
-| Gumdrop | Article | [Click here](https://docs.metaplex.com/programs/gumdrop/) |Metaplex Docs|  |
-| Token Entangler | Article | [Click here](https://docs.metaplex.com/programs/token-entangler/) |Metaplex Docs|  |
-| Metaplex SDKs | Article | [Click here](https://docs.metaplex.com/sdks/) |Metaplex Docs|  |
-| Developer Tools | Article | [Click here](https://docs.metaplex.com/developer-tools/) |Metaplex Docs|  |
-| Metaplex Program Library | Github | [Click here](https://github.com/metaplex-foundation/metaplex-program-library/tree/master/nft-packs/program) |Github - Metaplex Foundation|  |
-| Everything You Need to Know About Solana's Metaplex | Article | [Click here](https://www.alchemy.com/overviews/metaplex) |Alchemy| 07/21/22 |
-| Create a Solana NFT marketplace and mint NFTs using Metaplex | Article | [Click here](https://learn.figment.io/tutorials/create-a-solana-nft-marketplace-with-metaplex) |Figment Learn |  |
-| How to create a solana NFT using metaplex candy? | Article | [Click here](https://rejolut.com/blog/how-to-create-a-solana-nft-marketplace-using-metaplex-candy/)|Rejolut|  |
-| Metaplex Foundation Project Directory | Github | [Click here](https://github.com/metaplex-foundation/metaplex) |Github - Metaplex Foundation|  |
-| Metaplex | Video | [Click here](https://youtu.be/vAXfxgM9xCw)  |Youtube - Solana| 11/15/21 |
-| How To Mint & Sell Solana NFT's - Metaplex Tutorial | Video | [Click here](https://youtu.be/_36JcJRAHHI) |Youtube - James Bachini| 09/07/21 |
-| How to Launch Solana NFT Collection using Metaplex Candy Machine v2 | Video | [Click here](https://youtu.be/_W0OH3db4gM )|Youtube - KeyStrokes|05/03/22|
-| How to build a Solana NFT Collection (Metaplex, Alchemy, Hashlips) | Video | [Click here](https://youtu.be/dpZ98NUg_W0) |Youtube - Alchemy| 12/01/22 |
-| Metaplex Solana NFT metadata - How to get NFTs metadata? | Article | [Click here](https://chainstack.com/the-mystery-of-solana-metaplex-nft-metadata-encoding/) | Chainstack | 06/24/22 |
-
 ## Seahorse
 |Title|Type|Link|Source|Date|
 |:---                |:---        |:---|:---|:---|
