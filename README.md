@@ -217,6 +217,9 @@ A complete collection of all the Solana programming resources available for deve
 | How To Develop Token on The Solana Blockchain? | Article |[Click here]( https://blog.sagipl.com/solana-blockchain-token-development/) |SAGipl|  |
 | Retrieve Tokens and Balances from a Solana Wallet | Video | [Click here](https://adept.at/forked/solana-blockchain-development#forked/retrieve-tokens-and-balances-from-a-solana-wallet) |Adept| 01/25/22 |
 | How to create your own token on Solana | Video |[Click here]( https://youtu.be/1cn-HnG_yns) |Youtube - Loop Creative Andy| 05/24/21 |
+| How to create your own token using the '@solana/spl-token' library | Twitter Thread | [Click here](https://twitter.com/invariant_labs/status/1667093347540910085) |Twitter - Invariant DEX | 06/09/23 |
+| How to create your own token using a no-code tool | Video |[Click here]( http://y2u.be/7nKDbwOC1I0) |Youtube - Invariant DEX | 05/25/23 |
+| How to create your own token with a custom token address | Twitter Thread | [Click here](https://twitter.com/wojciechcichock/status/1642915944732282880) |Twitter - Wojciech | 04/03/23 |
 | How to build a simple token program | Video |[Click here]( https://youtu.be/sPtayIqP4u0)  |Youtube - Solana| 01/20/22 |
 | SOLANA - Technical Guide / Create Your Own Token / Using the Wallet | Video | [Click here](https://youtu.be/lzCNn6OFJGk) |Youtube -Crypton| 07/15/21 |
 | Create Your Own Token and NFT | Video | [Click here](https://youtu.be/L4WWQzOBNIg) |Youtube - ZappyCode| 05/25/21 |
